@@ -1,9 +1,3 @@
 # README
 
-## Subheading
-
-*Italic text*
-
-**Bold**
-
-VO~2max~
+This is my first change.
